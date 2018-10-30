@@ -1,8 +1,4 @@
 FROM alpine:3.7
-
-
-
-
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
 ENV NGINX_VERSION 1.13.10
